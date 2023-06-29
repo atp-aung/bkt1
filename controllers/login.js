@@ -29,3 +29,6 @@ loginRouter.post("/", async (request, response) => {
 });
 
 module.exports = loginRouter;
+
+// token:
+// "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXIxIiwiaWQiOiI2NDlkMDBhMzU0ZDhlYmExNGI1YjMwMzkiLCJpYXQiOjE2ODgwMjU3ODd9.N9nVFGpS35rOSv4ShJ_KE3OG-BArSZy9yHs84VDa0q4"
